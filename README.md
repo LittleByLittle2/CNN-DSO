@@ -40,7 +40,7 @@ on KITTI dataset (DSO and ORB-SLAM numbers are from [CNN-SVO paper](https://arxi
 
 		git clone https://github.com/muskie82/CNN-DSO.git
 
-- Modify paths to include directories and libraries of TensorFlow and monodepth-cpp in `CMakeLists.txt`.
+- Modify paths to include directories and libraries of TensorFlow and monodepth-cpp in `CMakeLists.txt` (4 lines of `/abosolute/path/to/XXXXX`).
 
 - Build
 
